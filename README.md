@@ -3,7 +3,7 @@
 this repo demonstrates Uplink Bandwidth, Uplink loss Rate, Uplink Jitter, Downlink Loss Rate using Agora SDK.
 
 Sample Images on Local Machine: 
-![In-call Statistics of Uplink and Downlink]https://github.com/arjuntendulkar/Agora/blob/master/images/image1.png)
+![In-call Statistics of Uplink and Downlink](https://github.com/arjuntendulkar/Agora/blob/master/images/image1.png)
 
 ![Video Call Statistics](https://github.com/arjuntendulkar/Agora/blob/master/images/image2.png)
 ## Prerequisites
